@@ -1,5 +1,4 @@
 import sys
-import logging
 
 class Ship:
     def __init__(self, id, x, y, halite):
